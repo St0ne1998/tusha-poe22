@@ -5,7 +5,7 @@
 **Part:** 2 of 3  
 **Submission Date:29 May 2026  
 **Live URL:** https://st0ne1998.github.io/TUSHA-F/  
-**Repository:** https://github.com/st0ne1998/TUSHA-F
+**Repository:** (https://github.com/St0ne1998/tusha-poe22.git)
 
 ---
 
