@@ -4,7 +4,7 @@
 **Module:** WEDE5020 — Web Development  
 **Part:** 2 of 3  
 **Submission Date:29 May 2026  
-**Live URL:** https://st0ne1998.github.io/TUSHA-F/  
+**Live URL:** https://st0ne1998.github.io/tusha-poe22/ 
 **Repository:** (https://github.com/St0ne1998/tusha-poe22.git)
 
 ---
